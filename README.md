@@ -2,10 +2,10 @@
 This project trains a chatbot using a sequence-to-sequence model with TensorFlow and Keras. The chatbot can generate responses to user inputs based on a provided dataset.
 
 ### Features
-- Data Preparation: Import, tokenize, and pad input/output sequences.
-- Model Architecture: Encoder-decoder LSTM with embeddings.
-- Training: Train the model and save it for future use.
-- Inference: Generate responses using the trained model.
+- **Data Preparation:** Import, tokenize, and pad input/output sequences.
+- **Model Architecture:** Encoder-decoder LSTM with embeddings.
+- **Training:** Train the model and save it for future use.
+- **Inference:** Generate responses using the trained model.
 
 ## Usage
 ### Data Preparation
